@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top">
+
+        <!-- Сделать шапку-->
+        <!--
+            Здесь делаем Кнопки вида:
+                Настройки (шестеренка)
+                Поиск (лупа)
+                А также продумать переход из основной ленты в личную
+        -->
+
+
+        <!--
+            Кнопочка перехода в настройки
+        -->
+        <ImageButton
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:foregroundGravity="center"
+            android:id="@+id/SettingButton"
+            />
+    </FrameLayout>
+
+</LinearLayout>

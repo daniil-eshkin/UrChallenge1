@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UrChallenge</string>
+    <integer name="com_vk_sdk_AppId">6327112</integer>
+    <string name="apps_name">UrChallenge</string>
+    <string name="intro">Добро пожаловать в UrChallenge!</string>
+</resources>
